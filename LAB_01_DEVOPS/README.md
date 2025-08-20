@@ -33,8 +33,10 @@ docker build . -t test -f dockerfile_full
 
 8. Navigate to the git_sample_code folder
 
-9. Run the below (one after another)
+9. Run the below (one after another) 
 
+    **CAUTION:** THESE SCRIPTS DEPEND ON E:\tmp. Change the scripts accordingly. 
+    
    - mergewithlineargraph.bat 
    - mergewithnonlineargraph.bat 
 
