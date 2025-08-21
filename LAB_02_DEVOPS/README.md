@@ -1,19 +1,34 @@
-## Lab 02: 
+## Lab 02: DevOps Workflow
 
-### Prerequisites	
-- git client has been installed
-- github account has been created
-- docker has been installed 
-- You have a docker hub account
+### Prerequisites
+- [Git](https://git-scm.com/) installed
+- GitHub account
+- [Docker](https://www.docker.com/) installed
+- Docker Hub account
 
-### What to do 
+### Steps
 
-1. FORK the repos [Sriram's Sample App](https://github.com/seshagirisriram/bmiapp) 
+1. **Fork the Repository**  
+   Fork [Sriram's Sample App](https://github.com/seshagirisriram/bmiapp) to your GitHub account.
 
-2. Clone your fork locally
+2. **Clone Your Fork Locally**  
+   ```sh
+   git clone https://github.com/<your-username>/bmiapp.git
+   ```
 
-3. Make a change to any file in src folder
+3. **Make a Change**  
+   Edit any file in the `src` folder.
 
-4. Push the changes to server
+4. **Push Your Changes**  
+   ```sh
+   git add .
+   git commit -m "Describe your change"
+   git push
+   ```
 
-5. Observe the Actions tab
+5. **Check GitHub Actions**  
+   Go to the **Actions** tab in your repository to observe the workflow.
+
+---
+
+*Feel free to ask questions or raise issues if you get stuck!*
