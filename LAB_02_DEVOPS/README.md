@@ -18,10 +18,10 @@
 
 3. **Make a Change**  
    Edit any file in the `src` folder.
-   > **Note:**  
-   > Before pushing your changes, review your workflow file and ensure:
-   > - Repository names referenced in the workflow are correct.
-   > - Your repository contains all required secrets as specified in the workflow file.
+   **Note:**  
+   Before pushing your changes, review your workflow file and ensure:
+   - Repository names referenced in the workflow are correct.
+   - Your repository contains all required secrets as specified in the workflow file.
 
 4. **Push Your Changes**  
    ```sh
