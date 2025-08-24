@@ -6,15 +6,20 @@ This repository contains resources for DevOps workshops, including lab exercises
 
 ## Folder Structure
 
-- **Devops_AUG18_2025\***  
+- **Devops_AUG18_2025  
   Contains DevOps presentations delivered between August 18 and August 29, 2025.
 
 - **cheatsheets**  
   Includes quick reference sheets for common commands in Git, Docker, and kubectl.
 
 - **LAB\***  
-  Contains lab exercises for hands-on DevOps practice. Each `LAB*` folder is a separate exercise with instructions and is WIP. 
+  Contains lab exercises for hands-on DevOps practice. Each `LAB*` folder is a separate exercise with instructions and is WIP.
+
+## Related Repository
+
+- **[Devops](https://github.com/seshagirisriram/devops)**  
+  Contains DevOps Code including lot of samples on docker, rootless docker and kubernetes
 
 ---
 
-*Feel free to explore the folders and use the materials for your learning and
+*Feel free to explore the folders and use the materials for your learning.
