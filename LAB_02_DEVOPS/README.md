@@ -1,17 +1,19 @@
-## Lab 02: DevOps Workflow
+# Lab 02: DevOps Workflow
 
-### Prerequisites
+## Prerequisites
+
 - [Git](https://git-scm.com/) installed
 - GitHub account
 - [Docker](https://www.docker.com/) installed
 - Docker Hub account
 
-### Steps
+## Steps
 
 1. **Fork the Repository**  
    Fork [Sriram's Sample App](https://github.com/seshagirisriram/bmiapp) to your GitHub account.
 
 2. **Clone Your Fork Locally**  
+
    ```sh
    git clone https://github.com/<your-username>/bmiapp.git
    ```
@@ -19,12 +21,14 @@
 3. **Make a Change**  
    Edit any file in the `src` folder.
 
-> **⚠️ Note:**  
-> Before pushing your changes, review your workflow file and ensure:
-> - Repository names referenced in the workflow are correct.
-> - Your repository contains all required secrets as specified in the workflow file.
+   > **⚠️ Note:**  
+   > Before pushing your changes, review your workflow file and ensure:
+   >
+   > - Repository names referenced in the workflow are correct.
+   > - Your repository contains all required secrets as specified in the workflow file.
 
 4. **Push Your Changes**  
+
    ```sh
    git add .
    git commit -m "Describe your change"
@@ -45,6 +49,7 @@ You can expand your workflow with additional code review steps:
 - Both steps should publish their reports (include them in the Actions output, not on GitHub Pages).
 
 **Sample AI prompt for workflow expansion:**
+>
 > - Expand the GitHub Action to include PMD and CheckStyle Review in parallel.
 > - These steps should continue even if there are errors. Please suggest changes in relevant files.
 > - Both steps should publish their reports in the Actions output.

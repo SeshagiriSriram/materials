@@ -6,7 +6,7 @@ This repository contains resources for DevOps workshops, including lab exercises
 
 ## Folder Structure
 
-- **Devops_AUG18_2025  
+- **Devops_AUG18_2025**  
   Contains DevOps presentations delivered between August 18 and August 29, 2025.
 
 - **cheatsheets**  
