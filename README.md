@@ -12,14 +12,17 @@ This repository contains resources for DevOps workshops, including lab exercises
 - **cheatsheets**  
   Includes quick reference sheets for common commands in Git, Docker, and kubectl.
 
-- **LAB**  
-  Contains lab exercises for hands-on DevOps practice. Each `LAB*` folder is a separate exercise with instructions and is WIP.
-
+- **KAFKA**  
+  Contains the old presentations for Kafka. Newer presentations will be uploaded shortly.
+  
 ## Related Repository
 
 - **[Devops](https://github.com/seshagirisriram/devops)**  
-  Contains DevOps Code including lot of samples on docker, rootless docker, kubernetes and IAC.
+  Contains DevOps Code including lot of samples on docker, rootless dockcer, kubernetes and IAC.
 
+- **[apache-kafkas](https://github.com/seshagirisriram/apache-kafka)**  
+  Contains sample code for Kafka - WIP and will be continually updated.
+  
 ## External Repos Links
 
 - **[Adventures in Devops](https://dev.to/adventures_in_devops/environment-as-code-ft-adarsh-shah-devops-190)**  
