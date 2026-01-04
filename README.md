@@ -6,14 +6,17 @@ This repository contains resources for DevOps workshops, including lab exercises
 
 ## Folder Structure
 
-- **Devops_AUG18_2025**  
-  Contains DevOps presentations delivered between August 18 and August 29, 2025.
+- **Devops**  
+  Contains DevOps presentations. While largely complete, will be subject to continual improvement
 
 - **cheatsheets**  
   Includes quick reference sheets for common commands in Git, Docker, and kubectl.
 
 - **KAFKA**  
-  Contains the old presentations for Kafka. Newer presentations will be uploaded shortly.
+  Contains the old presentations for Kafka. 
+  
+- **CloudComputing_AWS**  
+  A relatively large and comprehensive view of AWS services and products. Slides related to AWS certifications will be added later. 
   
 ## Related Repository
 
@@ -22,6 +25,9 @@ This repository contains resources for DevOps workshops, including lab exercises
 
 - **[apache-kafkas](https://github.com/seshagirisriram/apache-kafka)**  
   Contains sample code for Kafka - WIP and will be continually updated.
+
+- **[Devops](https://github.com/seshagirisriram/learnlinux)**  
+  Contains Sample codes for getting started with BASH Programming. 
   
 ## External Repos Links
 
